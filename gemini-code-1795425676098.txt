@@ -1,0 +1,13 @@
+target	feature	pearson_r	abs_pearson_r	spearman_rho	abs_spearman_rho
+disease_status	gene_A	-0.9854	0.9854	-0.8660	0.8660
+disease_status	gene_B	0.9891	0.9891	0.8660	0.8660
+disease_status	gene_C	-0.1562	0.1562	-0.1741	0.1741
+disease_status	gene_D	-0.3125	0.3125	-0.2887	0.2887
+disease_status	protein_X	-0.9782	0.9782	-0.8660	0.8660
+disease_status	cell_type	0.4082	0.4082	0.3536	0.3536
+biomarker_level	gene_A	0.9961	0.9961	0.9879	0.9879
+biomarker_level	gene_B	-0.9912	0.9912	-0.9879	0.9879
+biomarker_level	gene_C	0.1420	0.1420	0.1280	0.1280
+biomarker_level	gene_D	0.2984	0.2984	0.2606	0.2606
+biomarker_level	protein_X	0.9975	0.9975	1.0000	1.0000
+biomarker_level	cell_type	-0.4215	0.4215	-0.4124	0.4124
