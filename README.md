@@ -2,7 +2,7 @@
 
 **FeatureRanker** is a lightweight command-line tool in Python for exploratory feature correlation and multi-method feature ranking on **CSV** and **TSV** datasets with **1 or 2 target columns**. It automatically handles missing values, mixed numerical and categorical predictors, and task inference (classification vs. regression) so you can quickly identify top predictive features and relationship patterns across multiple statistical and machine learning perspectives.
 
-Created and maintained by **Ahmad Sam** ([github.com/ahmadsam66](https://github.com/ahmadsam66)).
+Created and maintained by **Ahmad Mousavi** ([github.com/ahmadsam66](https://github.com/ahmadsam66)).
 
 ---
 
